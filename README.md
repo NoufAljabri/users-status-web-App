@@ -27,7 +27,7 @@ This project demonstrates how to:
 
 ##  Features
 - Add new users to the database.
-- Display all users in a dynamic table.
+- Display all users in a table.
 - Toggle user status between `0` and `1`.
 - Instant update of the status without refreshing the page.
 
